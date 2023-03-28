@@ -1,0 +1,965 @@
+Knockout Stage,Match Date,Match Time,Home Team Id,Home Team Name,Away Team Id,Away Team Name,Home Team Score,Away Team Score,Home Team Score Margin,Away Team Score Margin
+0,7/13/1930,15:00,T-28,France,T-44,Mexico,4,1,3,-3
+0,7/13/1930,15:00,T-80,United States,T-06,Belgium,3,0,3,-3
+0,7/14/1930,12:45,T-84,Yugoslavia,T-09,Brazil,2,1,1,-1
+0,7/14/1930,14:50,T-59,Romania,T-54,Peru,3,1,2,-2
+0,7/15/1930,16:00,T-03,Argentina,T-28,France,1,0,1,-1
+0,7/16/1930,14:45,T-13,Chile,T-44,Mexico,3,0,3,-3
+0,7/17/1930,12:45,T-84,Yugoslavia,T-07,Bolivia,4,0,4,-4
+0,7/17/1930,14:45,T-80,United States,T-53,Paraguay,3,0,3,-3
+0,7/18/1930,14:30,T-81,Uruguay,T-54,Peru,1,0,1,-1
+0,7/19/1930,12:50,T-13,Chile,T-28,France,1,0,1,-1
+0,7/19/1930,15:00,T-03,Argentina,T-44,Mexico,6,3,3,-3
+0,7/20/1930,13:00,T-09,Brazil,T-07,Bolivia,4,0,4,-4
+0,7/20/1930,15:00,T-53,Paraguay,T-06,Belgium,1,0,1,-1
+0,7/21/1930,14:50,T-81,Uruguay,T-59,Romania,4,0,4,-4
+0,7/22/1930,14:45,T-03,Argentina,T-13,Chile,3,1,2,-2
+1,7/26/1930,14:45,T-03,Argentina,T-80,United States,6,1,5,-5
+1,7/27/1930,14:45,T-81,Uruguay,T-84,Yugoslavia,6,1,5,-5
+1,7/30/1930,14:15,T-81,Uruguay,T-03,Argentina,4,2,2,-2
+1,5/27/1934,16:00,T-05,Austria,T-28,France,3,2,1,-1
+1,5/27/1934,16:00,T-20,Czechoslovakia,T-59,Romania,2,1,1,-1
+1,5/27/1934,16:00,T-29,Germany,T-06,Belgium,5,2,3,-3
+1,5/27/1934,16:00,T-34,Hungary,T-25,Egypt,4,2,2,-2
+1,5/27/1934,16:00,T-39,Italy,T-80,United States,7,1,6,-6
+1,5/27/1934,16:00,T-71,Spain,T-09,Brazil,3,1,2,-2
+1,5/27/1934,16:00,T-72,Sweden,T-03,Argentina,3,2,1,-1
+1,5/27/1934,16:00,T-73,Switzerland,T-46,Netherlands,3,2,1,-1
+1,5/31/1934,16:30,T-05,Austria,T-34,Hungary,2,1,1,-1
+1,5/31/1934,16:30,T-20,Czechoslovakia,T-73,Switzerland,3,2,1,-1
+1,5/31/1934,16:30,T-29,Germany,T-72,Sweden,2,1,1,-1
+1,5/31/1934,16:30,T-39,Italy,T-71,Spain,1,1,0,0
+1,6/1/1934,16:30,T-39,Italy,T-71,Spain,1,0,1,-1
+1,6/3/1934,16:30,T-20,Czechoslovakia,T-29,Germany,3,1,2,-2
+1,6/3/1934,16:30,T-39,Italy,T-05,Austria,1,0,1,-1
+1,6/7/1934,18:00,T-29,Germany,T-05,Austria,3,2,1,-1
+1,6/10/1934,17:00,T-39,Italy,T-20,Czechoslovakia,2,1,1,-1
+1,6/4/1938,17:00,T-73,Switzerland,T-29,Germany,1,1,0,0
+1,6/5/1938,17:00,T-18,Cuba,T-59,Romania,3,3,0,0
+1,6/5/1938,17:00,T-28,France,T-06,Belgium,3,1,2,-2
+1,6/5/1938,17:00,T-34,Hungary,T-22,Dutch East Indies,6,0,6,-6
+1,6/5/1938,17:00,T-39,Italy,T-51,Norway,2,1,1,-1
+1,6/5/1938,17:30,T-09,Brazil,T-55,Poland,6,5,1,-1
+1,6/5/1938,18:30,T-20,Czechoslovakia,T-46,Netherlands,3,0,3,-3
+1,6/9/1938,18:00,T-18,Cuba,T-59,Romania,2,1,1,-1
+1,6/9/1938,18:00,T-73,Switzerland,T-29,Germany,4,2,2,-2
+1,6/12/1938,17:00,T-09,Brazil,T-20,Czechoslovakia,1,1,0,0
+1,6/12/1938,17:00,T-34,Hungary,T-73,Switzerland,2,0,2,-2
+1,6/12/1938,17:00,T-39,Italy,T-28,France,3,1,2,-2
+1,6/12/1938,17:00,T-72,Sweden,T-18,Cuba,8,0,8,-8
+1,6/14/1938,18:00,T-09,Brazil,T-20,Czechoslovakia,2,1,1,-1
+1,6/16/1938,18:00,T-34,Hungary,T-72,Sweden,5,1,4,-4
+1,6/16/1938,18:00,T-39,Italy,T-09,Brazil,2,1,1,-1
+1,6/19/1938,17:00,T-09,Brazil,T-72,Sweden,4,2,2,-2
+1,6/19/1938,17:00,T-39,Italy,T-34,Hungary,4,2,2,-2
+0,6/24/1950,15:00,T-09,Brazil,T-44,Mexico,4,0,4,-4
+0,6/25/1950,15:00,T-84,Yugoslavia,T-73,Switzerland,3,0,3,-3
+0,6/25/1950,15:00,T-27,England,T-13,Chile,2,0,2,-2
+0,6/25/1950,15:00,T-71,Spain,T-80,United States,3,1,2,-2
+0,6/25/1950,15:00,T-72,Sweden,T-39,Italy,3,2,1,-1
+0,6/28/1950,15:00,T-09,Brazil,T-73,Switzerland,2,2,0,0
+0,6/28/1950,15:00,T-84,Yugoslavia,T-44,Mexico,4,1,3,-3
+0,6/29/1950,15:00,T-71,Spain,T-13,Chile,2,0,2,-2
+0,6/29/1950,15:00,T-80,United States,T-27,England,1,0,1,-1
+0,6/29/1950,15:30,T-72,Sweden,T-53,Paraguay,2,2,0,0
+0,7/1/1950,15:00,T-09,Brazil,T-84,Yugoslavia,2,0,2,-2
+0,7/2/1950,15:00,T-13,Chile,T-80,United States,5,2,3,-3
+0,7/2/1950,15:00,T-71,Spain,T-27,England,1,0,1,-1
+0,7/2/1950,15:00,T-39,Italy,T-53,Paraguay,2,0,2,-2
+0,7/2/1950,15:00,T-81,Uruguay,T-07,Bolivia,8,0,8,-8
+0,7/2/1950,15:40,T-73,Switzerland,T-44,Mexico,2,1,1,-1
+0,7/9/1950,15:00,T-09,Brazil,T-72,Sweden,7,1,6,-6
+0,7/9/1950,15:00,T-81,Uruguay,T-71,Spain,2,2,0,0
+0,7/13/1950,15:00,T-09,Brazil,T-71,Spain,6,1,5,-5
+0,7/13/1950,15:00,T-81,Uruguay,T-72,Sweden,3,2,1,-1
+0,7/16/1950,15:00,T-72,Sweden,T-71,Spain,3,1,2,-2
+0,7/16/1950,15:00,T-81,Uruguay,T-09,Brazil,2,1,1,-1
+0,6/16/1954,18:00,T-09,Brazil,T-44,Mexico,5,0,5,-5
+0,6/16/1954,18:00,T-84,Yugoslavia,T-28,France,1,0,1,-1
+0,6/16/1954,18:00,T-05,Austria,T-62,Scotland,1,0,1,-1
+0,6/16/1954,18:00,T-81,Uruguay,T-20,Czechoslovakia,2,0,2,-2
+0,6/17/1954,17:50,T-73,Switzerland,T-39,Italy,2,1,1,-1
+0,6/17/1954,18:00,T-34,Hungary,T-69,South Korea,9,0,9,-9
+0,6/17/1954,18:00,T-83,West Germany,T-77,Turkey,4,1,3,-3
+0,6/17/1954,18:10,T-27,England,T-06,Belgium,4,4,0,0
+0,6/19/1954,16:50,T-81,Uruguay,T-62,Scotland,7,0,7,-7
+0,6/19/1954,17:00,T-09,Brazil,T-84,Yugoslavia,1,1,0,0
+0,6/19/1954,17:00,T-05,Austria,T-20,Czechoslovakia,5,0,5,-5
+0,6/19/1954,17:10,T-28,France,T-44,Mexico,3,2,1,-1
+0,6/20/1954,16:50,T-34,Hungary,T-83,West Germany,8,3,5,-5
+0,6/20/1954,17:00,T-77,Turkey,T-69,South Korea,7,0,7,-7
+0,6/20/1954,17:00,T-39,Italy,T-06,Belgium,4,1,3,-3
+0,6/20/1954,17:10,T-27,England,T-73,Switzerland,2,0,2,-2
+0,6/23/1954,18:00,T-83,West Germany,T-77,Turkey,7,2,5,-5
+0,6/23/1954,18:00,T-73,Switzerland,T-39,Italy,4,1,3,-3
+1,6/26/1954,17:00,T-05,Austria,T-73,Switzerland,7,5,2,-2
+1,6/26/1954,17:00,T-81,Uruguay,T-27,England,4,2,2,-2
+1,6/27/1954,17:00,T-34,Hungary,T-09,Brazil,4,2,2,-2
+1,6/27/1954,17:00,T-83,West Germany,T-84,Yugoslavia,2,0,2,-2
+1,6/30/1954,18:00,T-34,Hungary,T-81,Uruguay,4,2,2,-2
+1,6/30/1954,18:00,T-83,West Germany,T-05,Austria,6,1,5,-5
+1,7/3/1954,17:00,T-05,Austria,T-81,Uruguay,3,1,2,-2
+1,7/4/1954,17:00,T-83,West Germany,T-34,Hungary,3,2,1,-1
+0,6/8/1958,14:00,T-72,Sweden,T-44,Mexico,3,0,3,-3
+0,6/8/1958,19:00,T-03,Argentina,T-83,West Germany,1,3,-2,2
+0,6/8/1958,19:00,T-50,Northern Ireland,T-20,Czechoslovakia,1,0,1,-1
+0,6/8/1958,19:00,T-28,France,T-53,Paraguay,7,3,4,-4
+0,6/8/1958,19:00,T-84,Yugoslavia,T-62,Scotland,1,1,0,0
+0,6/8/1958,19:00,T-34,Hungary,T-82,Wales,1,1,0,0
+0,6/8/1958,19:00,T-09,Brazil,T-05,Austria,3,0,3,-3
+0,6/8/1958,19:00,T-70,Soviet Union,T-27,England,2,2,0,0
+0,6/11/1958,19:00,T-03,Argentina,T-50,Northern Ireland,3,1,2,-2
+0,6/11/1958,19:00,T-83,West Germany,T-20,Czechoslovakia,2,2,0,0
+0,6/11/1958,19:00,T-53,Paraguay,T-62,Scotland,3,2,1,-1
+0,6/11/1958,19:00,T-84,Yugoslavia,T-28,France,3,2,1,-1
+0,6/11/1958,19:00,T-44,Mexico,T-82,Wales,1,1,0,0
+0,6/11/1958,19:00,T-09,Brazil,T-27,England,0,0,0,0
+0,6/11/1958,19:00,T-70,Soviet Union,T-05,Austria,2,0,2,-2
+0,6/12/1958,19:00,T-72,Sweden,T-34,Hungary,2,1,1,-1
+0,6/15/1958,14:00,T-72,Sweden,T-82,Wales,0,0,0,0
+0,6/15/1958,19:00,T-20,Czechoslovakia,T-03,Argentina,6,1,5,-5
+0,6/15/1958,19:00,T-83,West Germany,T-50,Northern Ireland,2,2,0,0
+0,6/15/1958,19:00,T-28,France,T-62,Scotland,2,1,1,-1
+0,6/15/1958,19:00,T-53,Paraguay,T-84,Yugoslavia,3,3,0,0
+0,6/15/1958,19:00,T-34,Hungary,T-44,Mexico,4,0,4,-4
+0,6/15/1958,19:00,T-09,Brazil,T-70,Soviet Union,2,0,2,-2
+0,6/15/1958,19:00,T-27,England,T-05,Austria,2,2,0,0
+0,6/17/1958,19:00,T-50,Northern Ireland,T-20,Czechoslovakia,2,1,1,-1
+0,6/17/1958,19:00,T-82,Wales,T-34,Hungary,2,1,1,-1
+0,6/17/1958,19:00,T-70,Soviet Union,T-27,England,1,0,1,-1
+1,6/19/1958,19:00,T-09,Brazil,T-82,Wales,1,0,1,-1
+1,6/19/1958,19:00,T-28,France,T-50,Northern Ireland,4,0,4,-4
+1,6/19/1958,19:00,T-72,Sweden,T-70,Soviet Union,2,0,2,-2
+1,6/19/1958,19:00,T-83,West Germany,T-84,Yugoslavia,1,0,1,-1
+1,6/24/1958,19:00,T-09,Brazil,T-28,France,5,2,3,-3
+1,6/24/1958,19:00,T-72,Sweden,T-83,West Germany,3,1,2,-2
+1,6/28/1958,17:00,T-28,France,T-83,West Germany,6,3,3,-3
+1,6/29/1958,15:00,T-09,Brazil,T-72,Sweden,5,2,3,-3
+0,5/30/1962,15:00,T-81,Uruguay,T-15,Colombia,2,1,1,-1
+0,5/30/1962,15:00,T-13,Chile,T-73,Switzerland,3,1,2,-2
+0,5/30/1962,15:00,T-09,Brazil,T-44,Mexico,2,0,2,-2
+0,5/30/1962,15:00,T-03,Argentina,T-10,Bulgaria,1,0,1,-1
+0,5/31/1962,15:00,T-70,Soviet Union,T-84,Yugoslavia,2,0,2,-2
+0,5/31/1962,15:00,T-83,West Germany,T-39,Italy,0,0,0,0
+0,5/31/1962,15:00,T-20,Czechoslovakia,T-71,Spain,1,0,1,-1
+0,5/31/1962,15:00,T-34,Hungary,T-27,England,2,1,1,-1
+0,6/2/1962,15:00,T-84,Yugoslavia,T-81,Uruguay,3,1,2,-2
+0,6/2/1962,15:00,T-13,Chile,T-39,Italy,2,0,2,-2
+0,6/2/1962,15:00,T-09,Brazil,T-20,Czechoslovakia,0,0,0,0
+0,6/2/1962,15:00,T-27,England,T-03,Argentina,3,1,2,-2
+0,6/3/1962,15:00,T-70,Soviet Union,T-15,Colombia,4,4,0,0
+0,6/3/1962,15:00,T-83,West Germany,T-73,Switzerland,2,1,1,-1
+0,6/3/1962,15:00,T-71,Spain,T-44,Mexico,1,0,1,-1
+0,6/3/1962,15:00,T-34,Hungary,T-10,Bulgaria,6,1,5,-5
+0,6/6/1962,15:00,T-70,Soviet Union,T-81,Uruguay,2,1,1,-1
+0,6/6/1962,15:00,T-83,West Germany,T-13,Chile,2,0,2,-2
+0,6/6/1962,15:00,T-09,Brazil,T-71,Spain,2,1,1,-1
+0,6/6/1962,15:00,T-34,Hungary,T-03,Argentina,0,0,0,0
+0,6/7/1962,15:00,T-84,Yugoslavia,T-15,Colombia,5,0,5,-5
+0,6/7/1962,15:00,T-39,Italy,T-73,Switzerland,3,0,3,-3
+0,6/7/1962,15:00,T-44,Mexico,T-20,Czechoslovakia,3,1,2,-2
+0,6/7/1962,15:00,T-27,England,T-10,Bulgaria,0,0,0,0
+1,6/10/1962,14:30,T-09,Brazil,T-27,England,3,1,2,-2
+1,6/10/1962,14:30,T-13,Chile,T-70,Soviet Union,2,1,1,-1
+1,6/10/1962,14:30,T-20,Czechoslovakia,T-34,Hungary,1,0,1,-1
+1,6/10/1962,14:30,T-84,Yugoslavia,T-83,West Germany,1,0,1,-1
+1,6/13/1962,14:30,T-09,Brazil,T-13,Chile,4,2,2,-2
+1,6/13/1962,14:30,T-20,Czechoslovakia,T-84,Yugoslavia,3,1,2,-2
+1,6/16/1962,14:30,T-13,Chile,T-84,Yugoslavia,1,0,1,-1
+1,6/17/1962,14:30,T-09,Brazil,T-20,Czechoslovakia,3,1,2,-2
+0,7/11/1966,19:30,T-27,England,T-81,Uruguay,0,0,0,0
+0,7/12/1966,19:30,T-83,West Germany,T-73,Switzerland,5,0,5,-5
+0,7/12/1966,19:30,T-09,Brazil,T-10,Bulgaria,2,0,2,-2
+0,7/12/1966,19:30,T-70,Soviet Union,T-49,North Korea,3,0,3,-3
+0,7/13/1966,19:30,T-28,France,T-44,Mexico,1,1,0,0
+0,7/13/1966,19:30,T-03,Argentina,T-71,Spain,2,1,1,-1
+0,7/13/1966,19:30,T-56,Portugal,T-34,Hungary,3,1,2,-2
+0,7/13/1966,19:30,T-39,Italy,T-13,Chile,2,0,2,-2
+0,7/15/1966,19:30,T-81,Uruguay,T-28,France,2,1,1,-1
+0,7/15/1966,19:30,T-71,Spain,T-73,Switzerland,2,1,1,-1
+0,7/15/1966,19:30,T-34,Hungary,T-09,Brazil,3,1,2,-2
+0,7/15/1966,19:30,T-13,Chile,T-49,North Korea,1,1,0,0
+0,7/16/1966,15:00,T-03,Argentina,T-83,West Germany,0,0,0,0
+0,7/16/1966,15:00,T-56,Portugal,T-10,Bulgaria,3,0,3,-3
+0,7/16/1966,15:00,T-70,Soviet Union,T-39,Italy,1,0,1,-1
+0,7/16/1966,19:30,T-27,England,T-44,Mexico,2,0,2,-2
+0,7/19/1966,16:30,T-44,Mexico,T-81,Uruguay,0,0,0,0
+0,7/19/1966,19:30,T-03,Argentina,T-73,Switzerland,2,0,2,-2
+0,7/19/1966,19:30,T-56,Portugal,T-09,Brazil,3,1,2,-2
+0,7/19/1966,19:30,T-49,North Korea,T-39,Italy,1,0,1,-1
+0,7/20/1966,19:30,T-27,England,T-28,France,2,0,2,-2
+0,7/20/1966,19:30,T-83,West Germany,T-71,Spain,2,1,1,-1
+0,7/20/1966,19:30,T-34,Hungary,T-10,Bulgaria,3,1,2,-2
+0,7/20/1966,19:30,T-70,Soviet Union,T-13,Chile,2,1,1,-1
+1,7/23/1966,15:00,T-27,England,T-03,Argentina,1,0,1,-1
+1,7/23/1966,15:00,T-56,Portugal,T-49,North Korea,5,3,2,-2
+1,7/23/1966,15:00,T-70,Soviet Union,T-34,Hungary,2,1,1,-1
+1,7/23/1966,15:00,T-83,West Germany,T-81,Uruguay,4,0,4,-4
+1,7/25/1966,19:30,T-83,West Germany,T-70,Soviet Union,2,1,1,-1
+1,7/26/1966,19:30,T-27,England,T-56,Portugal,2,1,1,-1
+1,7/28/1966,19:30,T-56,Portugal,T-70,Soviet Union,2,1,1,-1
+1,7/30/1966,15:00,T-27,England,T-83,West Germany,4,2,2,-2
+0,5/31/1970,12:00,T-44,Mexico,T-70,Soviet Union,0,0,0,0
+0,6/2/1970,16:00,T-81,Uruguay,T-38,Israel,2,0,2,-2
+0,6/2/1970,16:00,T-27,England,T-59,Romania,1,0,1,-1
+0,6/2/1970,16:00,T-54,Peru,T-10,Bulgaria,3,2,1,-1
+0,6/3/1970,16:00,T-06,Belgium,T-26,El Salvador,3,0,3,-3
+0,6/3/1970,16:00,T-39,Italy,T-72,Sweden,1,0,1,-1
+0,6/3/1970,16:00,T-09,Brazil,T-20,Czechoslovakia,4,1,3,-3
+0,6/3/1970,16:00,T-83,West Germany,T-45,Morocco,2,1,1,-1
+0,6/6/1970,16:00,T-70,Soviet Union,T-06,Belgium,4,1,3,-3
+0,6/6/1970,16:00,T-81,Uruguay,T-39,Italy,0,0,0,0
+0,6/6/1970,16:00,T-59,Romania,T-20,Czechoslovakia,2,1,1,-1
+0,6/6/1970,16:00,T-54,Peru,T-45,Morocco,3,0,3,-3
+0,6/7/1970,12:00,T-44,Mexico,T-26,El Salvador,4,0,4,-4
+0,6/7/1970,12:00,T-72,Sweden,T-38,Israel,1,1,0,0
+0,6/7/1970,12:00,T-09,Brazil,T-27,England,1,0,1,-1
+0,6/7/1970,12:00,T-83,West Germany,T-10,Bulgaria,5,2,3,-3
+0,6/10/1970,16:00,T-70,Soviet Union,T-26,El Salvador,2,0,2,-2
+0,6/10/1970,16:00,T-72,Sweden,T-81,Uruguay,1,0,1,-1
+0,6/10/1970,16:00,T-09,Brazil,T-59,Romania,3,2,1,-1
+0,6/10/1970,16:00,T-83,West Germany,T-54,Peru,3,1,2,-2
+0,6/11/1970,16:00,T-44,Mexico,T-06,Belgium,1,0,1,-1
+0,6/11/1970,16:00,T-39,Italy,T-38,Israel,0,0,0,0
+0,6/11/1970,16:00,T-27,England,T-20,Czechoslovakia,1,0,1,-1
+0,6/11/1970,16:00,T-10,Bulgaria,T-45,Morocco,1,1,0,0
+1,6/14/1970,12:00,T-09,Brazil,T-54,Peru,4,2,2,-2
+1,6/14/1970,12:00,T-39,Italy,T-44,Mexico,4,1,3,-3
+1,6/14/1970,12:00,T-70,Soviet Union,T-81,Uruguay,0,1,-1,1
+1,6/14/1970,12:00,T-83,West Germany,T-27,England,3,2,1,-1
+1,6/17/1970,16:00,T-09,Brazil,T-81,Uruguay,3,1,2,-2
+1,6/17/1970,16:00,T-39,Italy,T-83,West Germany,4,3,1,-1
+1,6/20/1970,16:00,T-83,West Germany,T-81,Uruguay,1,0,1,-1
+1,6/21/1970,12:00,T-09,Brazil,T-39,Italy,4,1,3,-3
+0,6/13/1974,17:00,T-09,Brazil,T-84,Yugoslavia,0,0,0,0
+0,6/14/1974,16:00,T-83,West Germany,T-13,Chile,1,0,1,-1
+0,6/14/1974,19:30,T-23,East Germany,T-04,Australia,2,0,2,-2
+0,6/14/1974,19:30,T-85,Zaire,T-62,Scotland,0,2,-2,2
+0,6/15/1974,16:00,T-72,Sweden,T-10,Bulgaria,0,0,0,0
+0,6/15/1974,16:00,T-81,Uruguay,T-46,Netherlands,0,2,-2,2
+0,6/15/1974,18:00,T-39,Italy,T-32,Haiti,3,1,2,-2
+0,6/15/1974,18:00,T-55,Poland,T-03,Argentina,3,2,1,-1
+0,6/18/1974,16:00,T-04,Australia,T-83,West Germany,0,3,-3,3
+0,6/18/1974,19:00,T-13,Chile,T-23,East Germany,1,1,0,0
+0,6/18/1974,19:30,T-62,Scotland,T-09,Brazil,0,0,0,0
+0,6/18/1974,19:30,T-84,Yugoslavia,T-85,Zaire,9,0,9,-9
+0,6/19/1974,19:30,T-10,Bulgaria,T-81,Uruguay,1,1,0,0
+0,6/19/1974,19:30,T-46,Netherlands,T-72,Sweden,0,0,0,0
+0,6/19/1974,19:30,T-03,Argentina,T-39,Italy,1,1,0,0
+0,6/19/1974,19:30,T-32,Haiti,T-55,Poland,0,7,-7,7
+0,6/22/1974,16:00,T-04,Australia,T-13,Chile,0,0,0,0
+0,6/22/1974,16:00,T-62,Scotland,T-84,Yugoslavia,1,1,0,0
+0,6/22/1974,16:00,T-85,Zaire,T-09,Brazil,0,3,-3,3
+0,6/22/1974,19:30,T-23,East Germany,T-83,West Germany,1,0,1,-1
+0,6/23/1974,16:00,T-10,Bulgaria,T-46,Netherlands,1,4,-3,3
+0,6/23/1974,16:00,T-72,Sweden,T-81,Uruguay,3,0,3,-3
+0,6/23/1974,16:00,T-03,Argentina,T-32,Haiti,4,1,3,-3
+0,6/23/1974,16:00,T-55,Poland,T-39,Italy,2,1,1,-1
+0,6/26/1974,16:00,T-84,Yugoslavia,T-83,West Germany,0,2,-2,2
+0,6/26/1974,19:30,T-09,Brazil,T-23,East Germany,1,0,1,-1
+0,6/26/1974,19:30,T-46,Netherlands,T-03,Argentina,4,0,4,-4
+0,6/26/1974,19:30,T-72,Sweden,T-55,Poland,0,1,-1,1
+0,6/30/1974,16:00,T-03,Argentina,T-09,Brazil,1,2,-1,1
+0,6/30/1974,16:00,T-23,East Germany,T-46,Netherlands,0,2,-2,2
+0,6/30/1974,16:00,T-55,Poland,T-84,Yugoslavia,2,1,1,-1
+0,6/30/1974,19:30,T-83,West Germany,T-72,Sweden,4,2,2,-2
+0,7/3/1974,16:30,T-55,Poland,T-83,West Germany,0,1,-1,1
+0,7/3/1974,19:30,T-03,Argentina,T-23,East Germany,1,1,0,0
+0,7/3/1974,19:30,T-46,Netherlands,T-09,Brazil,2,0,2,-2
+0,7/3/1974,19:30,T-72,Sweden,T-84,Yugoslavia,2,1,1,-1
+1,7/6/1974,16:00,T-09,Brazil,T-55,Poland,0,1,-1,1
+1,7/7/1974,16:00,T-46,Netherlands,T-83,West Germany,1,2,-1,1
+0,6/1/1978,15:00,T-83,West Germany,T-55,Poland,0,0,0,0
+0,6/2/1978,13:45,T-39,Italy,T-28,France,2,1,1,-1
+0,6/2/1978,16:45,T-76,Tunisia,T-44,Mexico,3,1,2,-2
+0,6/2/1978,19:15,T-03,Argentina,T-34,Hungary,2,1,1,-1
+0,6/3/1978,13:45,T-05,Austria,T-71,Spain,2,1,1,-1
+0,6/3/1978,13:45,T-09,Brazil,T-72,Sweden,1,1,0,0
+0,6/3/1978,16:45,T-46,Netherlands,T-36,Iran,3,0,3,-3
+0,6/3/1978,16:45,T-54,Peru,T-62,Scotland,3,1,2,-2
+0,6/6/1978,13:45,T-39,Italy,T-34,Hungary,3,1,2,-2
+0,6/6/1978,16:45,T-55,Poland,T-76,Tunisia,1,0,1,-1
+0,6/6/1978,16:45,T-83,West Germany,T-44,Mexico,6,0,6,-6
+0,6/6/1978,19:15,T-03,Argentina,T-28,France,2,1,1,-1
+0,6/7/1978,13:45,T-05,Austria,T-72,Sweden,1,0,1,-1
+0,6/7/1978,13:45,T-09,Brazil,T-71,Spain,0,0,0,0
+0,6/7/1978,16:45,T-46,Netherlands,T-54,Peru,0,0,0,0
+0,6/7/1978,16:45,T-62,Scotland,T-36,Iran,1,1,0,0
+0,6/10/1978,14:30,T-28,France,T-34,Hungary,3,1,2,-2
+0,6/10/1978,16:45,T-55,Poland,T-44,Mexico,3,1,2,-2
+0,6/10/1978,16:45,T-83,West Germany,T-76,Tunisia,0,0,0,0
+0,6/10/1978,19:15,T-03,Argentina,T-39,Italy,0,1,-1,1
+0,6/11/1978,13:45,T-09,Brazil,T-05,Austria,1,0,1,-1
+0,6/11/1978,13:45,T-71,Spain,T-72,Sweden,1,0,1,-1
+0,6/11/1978,16:45,T-54,Peru,T-36,Iran,4,1,3,-3
+0,6/11/1978,16:45,T-62,Scotland,T-46,Netherlands,3,2,1,-1
+0,6/14/1978,13:45,T-05,Austria,T-46,Netherlands,1,5,-4,4
+0,6/14/1978,13:45,T-39,Italy,T-83,West Germany,0,0,0,0
+0,6/14/1978,16:45,T-09,Brazil,T-54,Peru,3,0,3,-3
+0,6/14/1978,19:15,T-03,Argentina,T-55,Poland,2,0,2,-2
+0,6/18/1978,13:45,T-54,Peru,T-55,Poland,0,1,-1,1
+0,6/18/1978,16:45,T-39,Italy,T-05,Austria,1,0,1,-1
+0,6/18/1978,16:45,T-46,Netherlands,T-83,West Germany,2,2,0,0
+0,6/18/1978,19:15,T-03,Argentina,T-09,Brazil,0,0,0,0
+0,6/21/1978,13:45,T-05,Austria,T-83,West Germany,3,2,1,-1
+0,6/21/1978,13:45,T-39,Italy,T-46,Netherlands,1,2,-1,1
+0,6/21/1978,16:45,T-09,Brazil,T-55,Poland,3,1,2,-2
+0,6/21/1978,19:15,T-03,Argentina,T-54,Peru,6,0,6,-6
+1,6/24/1978,15:00,T-09,Brazil,T-39,Italy,2,1,1,-1
+1,6/25/1978,15:00,T-03,Argentina,T-46,Netherlands,3,1,2,-2
+0,6/13/1982,20:00,T-03,Argentina,T-06,Belgium,0,1,-1,1
+0,6/14/1982,17:15,T-39,Italy,T-55,Poland,0,0,0,0
+0,6/14/1982,21:00,T-09,Brazil,T-70,Soviet Union,2,1,1,-1
+0,6/15/1982,17:15,T-54,Peru,T-11,Cameroon,0,0,0,0
+0,6/15/1982,21:00,T-34,Hungary,T-26,El Salvador,10,1,9,-9
+0,6/15/1982,21:00,T-62,Scotland,T-47,New Zealand,5,2,3,-3
+0,6/16/1982,17:15,T-83,West Germany,T-01,Algeria,1,2,-1,1
+0,6/16/1982,17:15,T-27,England,T-28,France,3,1,2,-2
+0,6/16/1982,21:00,T-71,Spain,T-33,Honduras,1,1,0,0
+0,6/17/1982,17:15,T-13,Chile,T-05,Austria,0,1,-1,1
+0,6/17/1982,17:15,T-20,Czechoslovakia,T-43,Kuwait,1,1,0,0
+0,6/17/1982,21:00,T-84,Yugoslavia,T-50,Northern Ireland,0,0,0,0
+0,6/18/1982,17:15,T-39,Italy,T-54,Peru,1,1,0,0
+0,6/18/1982,21:00,T-03,Argentina,T-34,Hungary,4,1,3,-3
+0,6/18/1982,21:00,T-09,Brazil,T-62,Scotland,4,1,3,-3
+0,6/19/1982,17:15,T-55,Poland,T-11,Cameroon,0,0,0,0
+0,6/19/1982,21:00,T-06,Belgium,T-26,El Salvador,1,0,1,-1
+0,6/19/1982,21:00,T-70,Soviet Union,T-47,New Zealand,3,0,3,-3
+0,6/20/1982,17:15,T-83,West Germany,T-13,Chile,4,1,3,-3
+0,6/20/1982,17:15,T-27,England,T-20,Czechoslovakia,2,0,2,-2
+0,6/20/1982,21:00,T-71,Spain,T-84,Yugoslavia,2,1,1,-1
+0,6/21/1982,17:15,T-01,Algeria,T-05,Austria,0,2,-2,2
+0,6/21/1982,17:15,T-28,France,T-43,Kuwait,4,1,3,-3
+0,6/21/1982,21:00,T-33,Honduras,T-50,Northern Ireland,1,1,0,0
+0,6/22/1982,17:15,T-55,Poland,T-54,Peru,5,1,4,-4
+0,6/22/1982,21:00,T-06,Belgium,T-34,Hungary,1,1,0,0
+0,6/22/1982,21:00,T-70,Soviet Union,T-62,Scotland,2,2,0,0
+0,6/23/1982,17:15,T-39,Italy,T-11,Cameroon,1,1,0,0
+0,6/23/1982,21:00,T-03,Argentina,T-26,El Salvador,2,0,2,-2
+0,6/23/1982,21:00,T-09,Brazil,T-47,New Zealand,4,0,4,-4
+0,6/24/1982,17:15,T-01,Algeria,T-13,Chile,3,2,1,-1
+0,6/24/1982,17:15,T-28,France,T-20,Czechoslovakia,1,1,0,0
+0,6/24/1982,21:00,T-33,Honduras,T-84,Yugoslavia,0,1,-1,1
+0,6/25/1982,17:15,T-83,West Germany,T-05,Austria,1,0,1,-1
+0,6/25/1982,17:15,T-27,England,T-43,Kuwait,1,0,1,-1
+0,6/25/1982,21:00,T-71,Spain,T-50,Northern Ireland,0,1,-1,1
+0,6/28/1982,17:15,T-05,Austria,T-28,France,0,1,-1,1
+0,6/28/1982,21:00,T-55,Poland,T-06,Belgium,3,0,3,-3
+0,6/29/1982,17:15,T-39,Italy,T-03,Argentina,2,1,1,-1
+0,6/29/1982,21:00,T-83,West Germany,T-27,England,0,0,0,0
+0,7/1/1982,17:15,T-05,Austria,T-50,Northern Ireland,2,2,0,0
+0,7/1/1982,21:00,T-06,Belgium,T-70,Soviet Union,0,1,-1,1
+0,7/2/1982,17:15,T-03,Argentina,T-09,Brazil,1,3,-2,2
+0,7/2/1982,21:00,T-83,West Germany,T-71,Spain,2,1,1,-1
+0,7/4/1982,17:15,T-28,France,T-50,Northern Ireland,4,1,3,-3
+0,7/4/1982,21:00,T-70,Soviet Union,T-55,Poland,0,0,0,0
+0,7/5/1982,17:15,T-39,Italy,T-09,Brazil,3,2,1,-1
+0,7/5/1982,21:00,T-71,Spain,T-27,England,0,0,0,0
+1,7/8/1982,17:15,T-55,Poland,T-39,Italy,0,2,-2,2
+1,7/8/1982,21:00,T-83,West Germany,T-28,France,3,3,0,0
+1,7/10/1982,20:00,T-55,Poland,T-28,France,3,2,1,-1
+1,7/11/1982,20:00,T-39,Italy,T-83,West Germany,3,1,2,-2
+0,5/31/1986,12:00,T-10,Bulgaria,T-39,Italy,1,1,0,0
+0,6/1/1986,12:00,T-71,Spain,T-09,Brazil,0,1,-1,1
+0,6/1/1986,16:00,T-12,Canada,T-28,France,0,1,-1,1
+0,6/2/1986,12:00,T-03,Argentina,T-69,South Korea,3,1,2,-2
+0,6/2/1986,12:00,T-70,Soviet Union,T-34,Hungary,6,0,6,-6
+0,6/2/1986,16:00,T-45,Morocco,T-55,Poland,0,0,0,0
+0,6/3/1986,12:00,T-06,Belgium,T-44,Mexico,1,2,-1,1
+0,6/3/1986,12:00,T-01,Algeria,T-50,Northern Ireland,1,1,0,0
+0,6/3/1986,16:00,T-56,Portugal,T-27,England,1,0,1,-1
+0,6/4/1986,12:00,T-53,Paraguay,T-37,Iraq,1,0,1,-1
+0,6/4/1986,12:00,T-81,Uruguay,T-83,West Germany,1,1,0,0
+0,6/4/1986,16:00,T-62,Scotland,T-21,Denmark,0,1,-1,1
+0,6/5/1986,12:00,T-39,Italy,T-03,Argentina,1,1,0,0
+0,6/5/1986,12:00,T-28,France,T-70,Soviet Union,1,1,0,0
+0,6/5/1986,16:00,T-69,South Korea,T-10,Bulgaria,1,1,0,0
+0,6/6/1986,12:00,T-34,Hungary,T-12,Canada,2,0,2,-2
+0,6/6/1986,12:00,T-09,Brazil,T-01,Algeria,1,0,1,-1
+0,6/6/1986,16:00,T-27,England,T-45,Morocco,0,0,0,0
+0,6/7/1986,12:00,T-44,Mexico,T-53,Paraguay,1,1,0,0
+0,6/7/1986,12:00,T-50,Northern Ireland,T-71,Spain,1,2,-1,1
+0,6/7/1986,16:00,T-55,Poland,T-56,Portugal,1,0,1,-1
+0,6/8/1986,12:00,T-37,Iraq,T-06,Belgium,1,2,-1,1
+0,6/8/1986,12:00,T-83,West Germany,T-62,Scotland,2,1,1,-1
+0,6/8/1986,16:00,T-21,Denmark,T-81,Uruguay,6,1,5,-5
+0,6/9/1986,12:00,T-34,Hungary,T-28,France,0,3,-3,3
+0,6/9/1986,12:00,T-70,Soviet Union,T-12,Canada,2,0,2,-2
+0,6/10/1986,12:00,T-03,Argentina,T-10,Bulgaria,2,0,2,-2
+0,6/10/1986,12:00,T-69,South Korea,T-39,Italy,2,3,-1,1
+0,6/11/1986,12:00,T-37,Iraq,T-44,Mexico,0,1,-1,1
+0,6/11/1986,12:00,T-53,Paraguay,T-06,Belgium,2,2,0,0
+0,6/11/1986,16:00,T-27,England,T-55,Poland,3,0,3,-3
+0,6/11/1986,16:00,T-56,Portugal,T-45,Morocco,1,3,-2,2
+0,6/12/1986,12:00,T-01,Algeria,T-71,Spain,0,3,-3,3
+0,6/12/1986,12:00,T-50,Northern Ireland,T-09,Brazil,0,3,-3,3
+0,6/13/1986,12:00,T-21,Denmark,T-83,West Germany,2,0,2,-2
+0,6/13/1986,12:00,T-62,Scotland,T-81,Uruguay,0,0,0,0
+1,6/15/1986,12:00,T-44,Mexico,T-10,Bulgaria,2,0,2,-2
+1,6/15/1986,16:00,T-70,Soviet Union,T-06,Belgium,3,4,-1,1
+1,6/16/1986,12:00,T-09,Brazil,T-55,Poland,4,0,4,-4
+1,6/16/1986,16:00,T-03,Argentina,T-81,Uruguay,1,0,1,-1
+1,6/17/1986,12:00,T-39,Italy,T-28,France,0,2,-2,2
+1,6/17/1986,16:00,T-45,Morocco,T-83,West Germany,0,1,-1,1
+1,6/18/1986,12:00,T-27,England,T-53,Paraguay,3,0,3,-3
+1,6/18/1986,16:00,T-21,Denmark,T-71,Spain,1,5,-4,4
+1,6/21/1986,12:00,T-09,Brazil,T-28,France,1,1,0,0
+1,6/21/1986,16:00,T-83,West Germany,T-44,Mexico,0,0,0,0
+1,6/22/1986,12:00,T-03,Argentina,T-27,England,2,1,1,-1
+1,6/22/1986,16:00,T-71,Spain,T-06,Belgium,1,1,0,0
+1,6/25/1986,12:00,T-28,France,T-83,West Germany,0,2,-2,2
+1,6/25/1986,16:00,T-03,Argentina,T-06,Belgium,2,0,2,-2
+1,6/28/1986,12:00,T-06,Belgium,T-28,France,2,4,-2,2
+1,6/29/1986,12:00,T-03,Argentina,T-83,West Germany,3,2,1,-1
+0,6/8/1990,18:00,T-03,Argentina,T-11,Cameroon,0,1,-1,1
+0,6/9/1990,17:00,T-70,Soviet Union,T-59,Romania,0,2,-2,2
+0,6/9/1990,17:00,T-79,United Arab Emirates,T-15,Colombia,0,2,-2,2
+0,6/9/1990,21:00,T-39,Italy,T-05,Austria,1,0,1,-1
+0,6/10/1990,17:00,T-80,United States,T-20,Czechoslovakia,1,5,-4,4
+0,6/10/1990,21:00,T-09,Brazil,T-72,Sweden,2,1,1,-1
+0,6/10/1990,21:00,T-83,West Germany,T-84,Yugoslavia,4,1,3,-3
+0,6/11/1990,17:00,T-16,Costa Rica,T-62,Scotland,1,0,1,-1
+0,6/11/1990,21:00,T-27,England,T-58,Republic of Ireland,1,1,0,0
+0,6/12/1990,17:00,T-06,Belgium,T-69,South Korea,2,0,2,-2
+0,6/12/1990,21:00,T-46,Netherlands,T-25,Egypt,1,1,0,0
+0,6/13/1990,17:00,T-81,Uruguay,T-71,Spain,0,0,0,0
+0,6/13/1990,21:00,T-03,Argentina,T-70,Soviet Union,2,0,2,-2
+0,6/14/1990,17:00,T-11,Cameroon,T-59,Romania,2,1,1,-1
+0,6/14/1990,17:00,T-84,Yugoslavia,T-15,Colombia,1,0,1,-1
+0,6/14/1990,21:00,T-39,Italy,T-80,United States,1,0,1,-1
+0,6/15/1990,17:00,T-05,Austria,T-20,Czechoslovakia,0,1,-1,1
+0,6/15/1990,21:00,T-83,West Germany,T-79,United Arab Emirates,5,1,4,-4
+0,6/16/1990,17:00,T-09,Brazil,T-16,Costa Rica,1,0,1,-1
+0,6/16/1990,21:00,T-72,Sweden,T-62,Scotland,1,2,-1,1
+0,6/16/1990,21:00,T-27,England,T-46,Netherlands,0,0,0,0
+0,6/17/1990,17:00,T-58,Republic of Ireland,T-25,Egypt,0,0,0,0
+0,6/17/1990,21:00,T-06,Belgium,T-81,Uruguay,3,1,2,-2
+0,6/17/1990,21:00,T-69,South Korea,T-71,Spain,1,3,-2,2
+0,6/18/1990,21:00,T-03,Argentina,T-59,Romania,1,1,0,0
+0,6/18/1990,21:00,T-11,Cameroon,T-70,Soviet Union,0,4,-4,4
+0,6/19/1990,17:00,T-83,West Germany,T-15,Colombia,1,1,0,0
+0,6/19/1990,17:00,T-84,Yugoslavia,T-79,United Arab Emirates,4,1,3,-3
+0,6/19/1990,21:00,T-05,Austria,T-80,United States,2,1,1,-1
+0,6/19/1990,21:00,T-39,Italy,T-20,Czechoslovakia,2,0,2,-2
+0,6/20/1990,21:00,T-09,Brazil,T-62,Scotland,1,0,1,-1
+0,6/20/1990,21:00,T-72,Sweden,T-16,Costa Rica,1,2,-1,1
+0,6/21/1990,17:00,T-06,Belgium,T-71,Spain,1,2,-1,1
+0,6/21/1990,17:00,T-69,South Korea,T-81,Uruguay,0,1,-1,1
+0,6/21/1990,21:00,T-27,England,T-25,Egypt,1,0,1,-1
+0,6/21/1990,21:00,T-58,Republic of Ireland,T-46,Netherlands,1,1,0,0
+1,6/23/1990,17:00,T-11,Cameroon,T-15,Colombia,2,1,1,-1
+1,6/23/1990,21:00,T-20,Czechoslovakia,T-16,Costa Rica,4,1,3,-3
+1,6/24/1990,17:00,T-09,Brazil,T-03,Argentina,0,1,-1,1
+1,6/24/1990,21:00,T-83,West Germany,T-46,Netherlands,2,1,1,-1
+1,6/25/1990,17:00,T-58,Republic of Ireland,T-59,Romania,0,0,0,0
+1,6/25/1990,21:00,T-39,Italy,T-81,Uruguay,2,0,2,-2
+1,6/26/1990,17:00,T-71,Spain,T-84,Yugoslavia,1,2,-1,1
+1,6/26/1990,21:00,T-27,England,T-06,Belgium,1,0,1,-1
+1,6/30/1990,17:00,T-03,Argentina,T-84,Yugoslavia,0,0,0,0
+1,6/30/1990,21:00,T-58,Republic of Ireland,T-39,Italy,0,1,-1,1
+1,7/1/1990,17:00,T-20,Czechoslovakia,T-83,West Germany,0,1,-1,1
+1,7/1/1990,21:00,T-11,Cameroon,T-27,England,2,3,-1,1
+1,7/3/1990,20:00,T-03,Argentina,T-39,Italy,1,1,0,0
+1,7/4/1990,20:00,T-83,West Germany,T-27,England,1,1,0,0
+1,7/7/1990,20:00,T-39,Italy,T-27,England,2,1,1,-1
+1,7/8/1990,20:00,T-83,West Germany,T-03,Argentina,1,0,1,-1
+0,6/17/1994,14:00,T-29,Germany,T-07,Bolivia,1,0,1,-1
+0,6/17/1994,18:30,T-71,Spain,T-69,South Korea,2,2,0,0
+0,6/18/1994,11:30,T-80,United States,T-73,Switzerland,1,1,0,0
+0,6/18/1994,16:00,T-39,Italy,T-58,Republic of Ireland,0,1,-1,1
+0,6/18/1994,16:30,T-15,Colombia,T-59,Romania,1,3,-2,2
+0,6/19/1994,12:30,T-06,Belgium,T-45,Morocco,1,0,1,-1
+0,6/19/1994,16:00,T-51,Norway,T-44,Mexico,1,0,1,-1
+0,6/19/1994,16:30,T-11,Cameroon,T-72,Sweden,2,2,0,0
+0,6/20/1994,13:00,T-09,Brazil,T-60,Russia,2,0,2,-2
+0,6/20/1994,19:30,T-46,Netherlands,T-61,Saudi Arabia,2,1,1,-1
+0,6/21/1994,12:30,T-03,Argentina,T-31,Greece,4,0,4,-4
+0,6/21/1994,15:00,T-29,Germany,T-71,Spain,1,1,0,0
+0,6/21/1994,18:30,T-48,Nigeria,T-10,Bulgaria,3,0,3,-3
+0,6/22/1994,16:00,T-59,Romania,T-73,Switzerland,1,4,-3,3
+0,6/22/1994,16:30,T-80,United States,T-15,Colombia,2,1,1,-1
+0,6/23/1994,16:00,T-39,Italy,T-51,Norway,1,0,1,-1
+0,6/23/1994,19:30,T-69,South Korea,T-07,Bolivia,0,0,0,0
+0,6/24/1994,12:30,T-44,Mexico,T-58,Republic of Ireland,2,1,1,-1
+0,6/24/1994,13:00,T-09,Brazil,T-11,Cameroon,3,0,3,-3
+0,6/24/1994,19:30,T-72,Sweden,T-60,Russia,3,1,2,-2
+0,6/25/1994,12:30,T-06,Belgium,T-46,Netherlands,1,0,1,-1
+0,6/25/1994,12:30,T-61,Saudi Arabia,T-45,Morocco,2,1,1,-1
+0,6/25/1994,16:00,T-03,Argentina,T-48,Nigeria,2,1,1,-1
+0,6/26/1994,11:30,T-10,Bulgaria,T-31,Greece,4,0,4,-4
+0,6/26/1994,13:00,T-73,Switzerland,T-15,Colombia,0,2,-2,2
+0,6/26/1994,13:00,T-80,United States,T-59,Romania,0,1,-1,1
+0,6/27/1994,15:00,T-07,Bolivia,T-71,Spain,1,3,-2,2
+0,6/27/1994,15:00,T-29,Germany,T-69,South Korea,3,2,1,-1
+0,6/28/1994,12:30,T-39,Italy,T-44,Mexico,1,1,0,0
+0,6/28/1994,12:30,T-58,Republic of Ireland,T-51,Norway,0,0,0,0
+0,6/28/1994,13:00,T-60,Russia,T-11,Cameroon,6,1,5,-5
+0,6/28/1994,16:00,T-09,Brazil,T-72,Sweden,1,1,0,0
+0,6/29/1994,12:30,T-06,Belgium,T-61,Saudi Arabia,0,1,-1,1
+0,6/29/1994,12:30,T-45,Morocco,T-46,Netherlands,1,2,-1,1
+0,6/30/1994,18:30,T-03,Argentina,T-10,Bulgaria,0,2,-2,2
+0,6/30/1994,19:30,T-31,Greece,T-48,Nigeria,0,2,-2,2
+1,7/2/1994,12:00,T-29,Germany,T-06,Belgium,3,2,1,-1
+1,7/2/1994,16:30,T-71,Spain,T-73,Switzerland,3,0,3,-3
+1,7/3/1994,12:00,T-61,Saudi Arabia,T-72,Sweden,1,3,-2,2
+1,7/3/1994,13:30,T-59,Romania,T-03,Argentina,3,2,1,-1
+1,7/4/1994,12:00,T-46,Netherlands,T-58,Republic of Ireland,2,0,2,-2
+1,7/4/1994,12:30,T-09,Brazil,T-80,United States,1,0,1,-1
+1,7/5/1994,13:00,T-48,Nigeria,T-39,Italy,1,2,-1,1
+1,7/5/1994,16:30,T-44,Mexico,T-10,Bulgaria,1,1,0,0
+1,7/9/1994,12:00,T-39,Italy,T-71,Spain,2,1,1,-1
+1,7/9/1994,14:30,T-46,Netherlands,T-09,Brazil,2,3,-1,1
+1,7/10/1994,12:00,T-10,Bulgaria,T-29,Germany,2,1,1,-1
+1,7/10/1994,12:30,T-59,Romania,T-72,Sweden,2,2,0,0
+1,7/13/1994,16:00,T-10,Bulgaria,T-39,Italy,1,2,-1,1
+1,7/13/1994,16:30,T-72,Sweden,T-09,Brazil,0,1,-1,1
+1,7/16/1994,12:30,T-72,Sweden,T-10,Bulgaria,4,0,4,-4
+1,7/17/1994,12:30,T-09,Brazil,T-39,Italy,0,0,0,0
+0,6/10/1998,17:30,T-09,Brazil,T-62,Scotland,2,1,1,-1
+0,6/10/1998,21:00,T-45,Morocco,T-51,Norway,2,2,0,0
+0,6/11/1998,17:30,T-39,Italy,T-13,Chile,2,2,0,0
+0,6/11/1998,21:00,T-11,Cameroon,T-05,Austria,1,1,0,0
+0,6/12/1998,14:30,T-53,Paraguay,T-10,Bulgaria,0,0,0,0
+0,6/12/1998,17:30,T-61,Saudi Arabia,T-21,Denmark,0,1,-1,1
+0,6/12/1998,21:00,T-28,France,T-68,South Africa,3,0,3,-3
+0,6/13/1998,14:30,T-71,Spain,T-48,Nigeria,2,3,-1,1
+0,6/13/1998,17:30,T-69,South Korea,T-44,Mexico,1,3,-2,2
+0,6/13/1998,21:00,T-46,Netherlands,T-06,Belgium,0,0,0,0
+0,6/14/1998,14:30,T-03,Argentina,T-42,Japan,1,0,1,-1
+0,6/14/1998,17:30,T-84,Yugoslavia,T-36,Iran,1,0,1,-1
+0,6/14/1998,21:00,T-41,Jamaica,T-17,Croatia,1,3,-2,2
+0,6/15/1998,14:30,T-27,England,T-76,Tunisia,2,0,2,-2
+0,6/15/1998,17:30,T-59,Romania,T-15,Colombia,1,0,1,-1
+0,6/15/1998,21:00,T-29,Germany,T-80,United States,2,0,2,-2
+0,6/16/1998,17:30,T-62,Scotland,T-51,Norway,1,1,0,0
+0,6/16/1998,21:00,T-09,Brazil,T-45,Morocco,3,0,3,-3
+0,6/17/1998,17:30,T-13,Chile,T-05,Austria,1,1,0,0
+0,6/17/1998,21:00,T-39,Italy,T-11,Cameroon,3,0,3,-3
+0,6/18/1998,17:30,T-68,South Africa,T-21,Denmark,1,1,0,0
+0,6/18/1998,21:00,T-28,France,T-61,Saudi Arabia,4,0,4,-4
+0,6/19/1998,17:30,T-48,Nigeria,T-10,Bulgaria,1,0,1,-1
+0,6/19/1998,21:00,T-71,Spain,T-53,Paraguay,0,0,0,0
+0,6/20/1998,14:30,T-42,Japan,T-17,Croatia,0,1,-1,1
+0,6/20/1998,17:30,T-06,Belgium,T-44,Mexico,2,2,0,0
+0,6/20/1998,21:00,T-46,Netherlands,T-69,South Korea,5,0,5,-5
+0,6/21/1998,14:30,T-29,Germany,T-84,Yugoslavia,2,2,0,0
+0,6/21/1998,17:30,T-03,Argentina,T-41,Jamaica,5,0,5,-5
+0,6/21/1998,21:00,T-80,United States,T-36,Iran,1,2,-1,1
+0,6/22/1998,17:30,T-15,Colombia,T-76,Tunisia,1,0,1,-1
+0,6/22/1998,21:00,T-59,Romania,T-27,England,2,1,1,-1
+0,6/23/1998,16:00,T-13,Chile,T-11,Cameroon,1,1,0,0
+0,6/23/1998,16:00,T-39,Italy,T-05,Austria,2,1,1,-1
+0,6/23/1998,21:00,T-09,Brazil,T-51,Norway,1,2,-1,1
+0,6/23/1998,21:00,T-62,Scotland,T-45,Morocco,0,3,-3,3
+0,6/24/1998,16:00,T-28,France,T-21,Denmark,2,1,1,-1
+0,6/24/1998,16:00,T-68,South Africa,T-61,Saudi Arabia,2,2,0,0
+0,6/24/1998,21:00,T-48,Nigeria,T-53,Paraguay,1,3,-2,2
+0,6/24/1998,21:00,T-71,Spain,T-10,Bulgaria,6,1,5,-5
+0,6/25/1998,16:00,T-06,Belgium,T-69,South Korea,1,1,0,0
+0,6/25/1998,16:00,T-46,Netherlands,T-44,Mexico,2,2,0,0
+0,6/25/1998,21:00,T-29,Germany,T-36,Iran,2,0,2,-2
+0,6/25/1998,21:00,T-80,United States,T-84,Yugoslavia,0,1,-1,1
+0,6/26/1998,16:00,T-03,Argentina,T-17,Croatia,1,0,1,-1
+0,6/26/1998,16:00,T-42,Japan,T-41,Jamaica,1,2,-1,1
+0,6/26/1998,21:00,T-15,Colombia,T-27,England,0,2,-2,2
+0,6/26/1998,21:00,T-59,Romania,T-76,Tunisia,1,1,0,0
+1,6/27/1998,16:30,T-39,Italy,T-51,Norway,1,0,1,-1
+1,6/27/1998,21:00,T-09,Brazil,T-13,Chile,4,1,3,-3
+1,6/28/1998,16:30,T-28,France,T-53,Paraguay,1,0,1,-1
+1,6/28/1998,21:00,T-48,Nigeria,T-21,Denmark,1,4,-3,3
+1,6/29/1998,16:30,T-29,Germany,T-44,Mexico,2,1,1,-1
+1,6/29/1998,21:00,T-46,Netherlands,T-84,Yugoslavia,2,1,1,-1
+1,6/30/1998,16:30,T-59,Romania,T-17,Croatia,0,1,-1,1
+1,6/30/1998,21:00,T-03,Argentina,T-27,England,2,2,0,0
+1,7/3/1998,16:30,T-39,Italy,T-28,France,0,0,0,0
+1,7/3/1998,21:00,T-09,Brazil,T-21,Denmark,3,2,1,-1
+1,7/4/1998,16:30,T-46,Netherlands,T-03,Argentina,2,1,1,-1
+1,7/4/1998,21:00,T-29,Germany,T-17,Croatia,0,3,-3,3
+1,7/7/1998,21:00,T-09,Brazil,T-46,Netherlands,1,1,0,0
+1,7/8/1998,21:00,T-28,France,T-17,Croatia,2,1,1,-1
+1,7/11/1998,21:00,T-46,Netherlands,T-17,Croatia,1,2,-1,1
+1,7/12/1998,21:00,T-09,Brazil,T-28,France,0,3,-3,3
+0,5/31/2002,20:30,T-28,France,T-63,Senegal,0,1,-1,1
+0,6/1/2002,15:30,T-58,Republic of Ireland,T-11,Cameroon,1,1,0,0
+0,6/1/2002,18:00,T-81,Uruguay,T-21,Denmark,1,2,-1,1
+0,6/1/2002,20:30,T-29,Germany,T-61,Saudi Arabia,8,0,8,-8
+0,6/2/2002,14:30,T-03,Argentina,T-48,Nigeria,1,0,1,-1
+0,6/2/2002,16:30,T-53,Paraguay,T-68,South Africa,2,2,0,0
+0,6/2/2002,18:30,T-27,England,T-72,Sweden,1,1,0,0
+0,6/2/2002,20:30,T-71,Spain,T-67,Slovenia,3,1,2,-2
+0,6/3/2002,15:30,T-17,Croatia,T-44,Mexico,0,1,-1,1
+0,6/3/2002,18:00,T-09,Brazil,T-77,Turkey,2,1,1,-1
+0,6/3/2002,20:30,T-39,Italy,T-24,Ecuador,2,0,2,-2
+0,6/4/2002,15:30,T-14,China,T-16,Costa Rica,0,2,-2,2
+0,6/4/2002,18:00,T-42,Japan,T-06,Belgium,2,2,0,0
+0,6/4/2002,20:30,T-69,South Korea,T-55,Poland,2,0,2,-2
+0,6/5/2002,15:30,T-60,Russia,T-76,Tunisia,2,0,2,-2
+0,6/5/2002,18:00,T-80,United States,T-56,Portugal,3,2,1,-1
+0,6/5/2002,20:30,T-29,Germany,T-58,Republic of Ireland,1,1,0,0
+0,6/6/2002,15:30,T-21,Denmark,T-63,Senegal,1,1,0,0
+0,6/6/2002,18:00,T-11,Cameroon,T-61,Saudi Arabia,1,0,1,-1
+0,6/6/2002,20:30,T-28,France,T-81,Uruguay,0,0,0,0
+0,6/7/2002,15:30,T-72,Sweden,T-48,Nigeria,2,1,1,-1
+0,6/7/2002,18:00,T-71,Spain,T-53,Paraguay,3,1,2,-2
+0,6/7/2002,20:30,T-03,Argentina,T-27,England,0,1,-1,1
+0,6/8/2002,15:30,T-68,South Africa,T-67,Slovenia,1,0,1,-1
+0,6/8/2002,18:00,T-39,Italy,T-17,Croatia,1,2,-1,1
+0,6/8/2002,20:30,T-09,Brazil,T-14,China,4,0,4,-4
+0,6/9/2002,15:30,T-44,Mexico,T-24,Ecuador,2,1,1,-1
+0,6/9/2002,18:00,T-16,Costa Rica,T-77,Turkey,1,1,0,0
+0,6/9/2002,20:30,T-42,Japan,T-60,Russia,1,0,1,-1
+0,6/10/2002,15:30,T-69,South Korea,T-80,United States,1,1,0,0
+0,6/10/2002,18:00,T-76,Tunisia,T-06,Belgium,1,1,0,0
+0,6/10/2002,20:30,T-56,Portugal,T-55,Poland,4,0,4,-4
+0,6/11/2002,15:30,T-21,Denmark,T-28,France,2,0,2,-2
+0,6/11/2002,15:30,T-63,Senegal,T-81,Uruguay,3,3,0,0
+0,6/11/2002,20:30,T-11,Cameroon,T-29,Germany,0,2,-2,2
+0,6/11/2002,20:30,T-61,Saudi Arabia,T-58,Republic of Ireland,0,3,-3,3
+0,6/12/2002,15:30,T-48,Nigeria,T-27,England,0,0,0,0
+0,6/12/2002,15:30,T-72,Sweden,T-03,Argentina,1,1,0,0
+0,6/12/2002,20:30,T-67,Slovenia,T-53,Paraguay,1,3,-2,2
+0,6/12/2002,20:30,T-68,South Africa,T-71,Spain,2,3,-1,1
+0,6/13/2002,15:30,T-16,Costa Rica,T-09,Brazil,2,5,-3,3
+0,6/13/2002,15:30,T-77,Turkey,T-14,China,3,0,3,-3
+0,6/13/2002,20:30,T-24,Ecuador,T-17,Croatia,1,0,1,-1
+0,6/13/2002,20:30,T-44,Mexico,T-39,Italy,1,1,0,0
+0,6/14/2002,15:30,T-06,Belgium,T-60,Russia,3,2,1,-1
+0,6/14/2002,15:30,T-76,Tunisia,T-42,Japan,0,2,-2,2
+0,6/14/2002,20:30,T-55,Poland,T-80,United States,3,1,2,-2
+0,6/14/2002,20:30,T-56,Portugal,T-69,South Korea,0,1,-1,1
+1,6/15/2002,15:30,T-29,Germany,T-53,Paraguay,1,0,1,-1
+1,6/15/2002,20:30,T-21,Denmark,T-27,England,0,3,-3,3
+1,6/16/2002,15:30,T-72,Sweden,T-63,Senegal,1,2,-1,1
+1,6/16/2002,20:30,T-71,Spain,T-58,Republic of Ireland,1,1,0,0
+1,6/17/2002,15:30,T-44,Mexico,T-80,United States,0,2,-2,2
+1,6/17/2002,20:30,T-09,Brazil,T-06,Belgium,2,0,2,-2
+1,6/18/2002,15:30,T-42,Japan,T-77,Turkey,0,1,-1,1
+1,6/18/2002,20:30,T-69,South Korea,T-39,Italy,2,1,1,-1
+1,6/21/2002,15:30,T-27,England,T-09,Brazil,1,2,-1,1
+1,6/21/2002,20:30,T-29,Germany,T-80,United States,1,0,1,-1
+1,6/22/2002,15:30,T-71,Spain,T-69,South Korea,0,0,0,0
+1,6/22/2002,20:30,T-63,Senegal,T-77,Turkey,0,1,-1,1
+1,6/25/2002,20:30,T-29,Germany,T-69,South Korea,1,0,1,-1
+1,6/26/2002,20:30,T-09,Brazil,T-77,Turkey,1,0,1,-1
+1,6/29/2002,20:00,T-69,South Korea,T-77,Turkey,2,3,-1,1
+1,6/30/2002,20:00,T-29,Germany,T-09,Brazil,0,2,-2,2
+0,6/9/2006,18:00,T-29,Germany,T-16,Costa Rica,4,2,2,-2
+0,6/9/2006,21:00,T-55,Poland,T-24,Ecuador,0,2,-2,2
+0,6/10/2006,15:00,T-27,England,T-53,Paraguay,1,0,1,-1
+0,6/10/2006,18:00,T-75,Trinidad and Tobago,T-72,Sweden,0,0,0,0
+0,6/10/2006,21:00,T-03,Argentina,T-40,Ivory Coast,2,1,1,-1
+0,6/11/2006,15:00,T-65,Serbia and Montenegro,T-46,Netherlands,0,1,-1,1
+0,6/11/2006,18:00,T-44,Mexico,T-36,Iran,3,1,2,-2
+0,6/11/2006,21:00,T-02,Angola,T-56,Portugal,0,1,-1,1
+0,6/12/2006,15:00,T-04,Australia,T-42,Japan,3,1,2,-2
+0,6/12/2006,18:00,T-80,United States,T-19,Czech Republic,0,3,-3,3
+0,6/12/2006,21:00,T-39,Italy,T-30,Ghana,2,0,2,-2
+0,6/13/2006,15:00,T-69,South Korea,T-74,Togo,2,1,1,-1
+0,6/13/2006,18:00,T-28,France,T-73,Switzerland,0,0,0,0
+0,6/13/2006,21:00,T-09,Brazil,T-17,Croatia,1,0,1,-1
+0,6/14/2006,15:00,T-71,Spain,T-78,Ukraine,4,0,4,-4
+0,6/14/2006,18:00,T-76,Tunisia,T-61,Saudi Arabia,2,2,0,0
+0,6/14/2006,21:00,T-29,Germany,T-55,Poland,1,0,1,-1
+0,6/15/2006,15:00,T-24,Ecuador,T-16,Costa Rica,3,0,3,-3
+0,6/15/2006,18:00,T-27,England,T-75,Trinidad and Tobago,2,0,2,-2
+0,6/15/2006,21:00,T-72,Sweden,T-53,Paraguay,1,0,1,-1
+0,6/16/2006,15:00,T-03,Argentina,T-65,Serbia and Montenegro,6,0,6,-6
+0,6/16/2006,18:00,T-46,Netherlands,T-40,Ivory Coast,2,1,1,-1
+0,6/16/2006,21:00,T-44,Mexico,T-02,Angola,0,0,0,0
+0,6/17/2006,15:00,T-56,Portugal,T-36,Iran,2,0,2,-2
+0,6/17/2006,18:00,T-19,Czech Republic,T-30,Ghana,0,2,-2,2
+0,6/17/2006,21:00,T-39,Italy,T-80,United States,1,1,0,0
+0,6/18/2006,15:00,T-42,Japan,T-17,Croatia,0,0,0,0
+0,6/18/2006,18:00,T-09,Brazil,T-04,Australia,2,0,2,-2
+0,6/18/2006,21:00,T-28,France,T-69,South Korea,1,1,0,0
+0,6/19/2006,15:00,T-74,Togo,T-73,Switzerland,0,2,-2,2
+0,6/19/2006,18:00,T-61,Saudi Arabia,T-78,Ukraine,0,4,-4,4
+0,6/19/2006,21:00,T-71,Spain,T-76,Tunisia,3,1,2,-2
+0,6/20/2006,16:00,T-16,Costa Rica,T-55,Poland,1,2,-1,1
+0,6/20/2006,16:00,T-24,Ecuador,T-29,Germany,0,3,-3,3
+0,6/20/2006,21:00,T-53,Paraguay,T-75,Trinidad and Tobago,2,0,2,-2
+0,6/20/2006,21:00,T-72,Sweden,T-27,England,2,2,0,0
+0,6/21/2006,16:00,T-36,Iran,T-02,Angola,1,1,0,0
+0,6/21/2006,16:00,T-56,Portugal,T-44,Mexico,2,1,1,-1
+0,6/21/2006,21:00,T-40,Ivory Coast,T-65,Serbia and Montenegro,3,2,1,-1
+0,6/21/2006,21:00,T-46,Netherlands,T-03,Argentina,0,0,0,0
+0,6/22/2006,16:00,T-19,Czech Republic,T-39,Italy,0,2,-2,2
+0,6/22/2006,16:00,T-30,Ghana,T-80,United States,2,1,1,-1
+0,6/22/2006,21:00,T-17,Croatia,T-04,Australia,2,2,0,0
+0,6/22/2006,21:00,T-42,Japan,T-09,Brazil,1,4,-3,3
+0,6/23/2006,16:00,T-61,Saudi Arabia,T-71,Spain,0,1,-1,1
+0,6/23/2006,16:00,T-78,Ukraine,T-76,Tunisia,1,0,1,-1
+0,6/23/2006,21:00,T-73,Switzerland,T-69,South Korea,2,0,2,-2
+0,6/23/2006,21:00,T-74,Togo,T-28,France,0,2,-2,2
+1,6/24/2006,17:00,T-29,Germany,T-72,Sweden,2,0,2,-2
+1,6/24/2006,21:00,T-03,Argentina,T-44,Mexico,2,1,1,-1
+1,6/25/2006,17:00,T-27,England,T-24,Ecuador,1,0,1,-1
+1,6/25/2006,21:00,T-56,Portugal,T-46,Netherlands,1,0,1,-1
+1,6/26/2006,17:00,T-39,Italy,T-04,Australia,1,0,1,-1
+1,6/26/2006,21:00,T-73,Switzerland,T-78,Ukraine,0,0,0,0
+1,6/27/2006,17:00,T-09,Brazil,T-30,Ghana,3,0,3,-3
+1,6/27/2006,21:00,T-71,Spain,T-28,France,1,3,-2,2
+1,6/30/2006,17:00,T-29,Germany,T-03,Argentina,1,1,0,0
+1,6/30/2006,21:00,T-39,Italy,T-78,Ukraine,3,0,3,-3
+1,7/1/2006,17:00,T-27,England,T-56,Portugal,0,0,0,0
+1,7/1/2006,21:00,T-09,Brazil,T-28,France,0,1,-1,1
+1,7/4/2006,21:00,T-29,Germany,T-39,Italy,0,2,-2,2
+1,7/5/2006,21:00,T-56,Portugal,T-28,France,0,1,-1,1
+1,7/8/2006,21:00,T-29,Germany,T-56,Portugal,3,1,2,-2
+1,7/9/2006,20:00,T-39,Italy,T-28,France,1,1,0,0
+0,6/11/2010,16:00,T-68,South Africa,T-44,Mexico,1,1,0,0
+0,6/11/2010,20:30,T-81,Uruguay,T-28,France,0,0,0,0
+0,6/12/2010,13:30,T-69,South Korea,T-31,Greece,2,0,2,-2
+0,6/12/2010,16:00,T-03,Argentina,T-48,Nigeria,1,0,1,-1
+0,6/12/2010,20:30,T-27,England,T-80,United States,1,1,0,0
+0,6/13/2010,13:30,T-01,Algeria,T-67,Slovenia,0,1,-1,1
+0,6/13/2010,16:00,T-64,Serbia,T-30,Ghana,0,1,-1,1
+0,6/13/2010,20:30,T-29,Germany,T-04,Australia,4,0,4,-4
+0,6/14/2010,13:30,T-46,Netherlands,T-21,Denmark,2,0,2,-2
+0,6/14/2010,16:00,T-42,Japan,T-11,Cameroon,1,0,1,-1
+0,6/14/2010,20:30,T-39,Italy,T-53,Paraguay,1,1,0,0
+0,6/15/2010,13:30,T-47,New Zealand,T-66,Slovakia,1,1,0,0
+0,6/15/2010,16:00,T-40,Ivory Coast,T-56,Portugal,0,0,0,0
+0,6/15/2010,20:30,T-09,Brazil,T-49,North Korea,2,1,1,-1
+0,6/16/2010,13:30,T-33,Honduras,T-13,Chile,0,1,-1,1
+0,6/16/2010,16:00,T-71,Spain,T-73,Switzerland,0,1,-1,1
+0,6/16/2010,20:30,T-68,South Africa,T-81,Uruguay,0,3,-3,3
+0,6/17/2010,13:30,T-03,Argentina,T-69,South Korea,4,1,3,-3
+0,6/17/2010,16:00,T-31,Greece,T-48,Nigeria,2,1,1,-1
+0,6/17/2010,20:30,T-28,France,T-44,Mexico,0,2,-2,2
+0,6/18/2010,13:30,T-29,Germany,T-64,Serbia,0,1,-1,1
+0,6/18/2010,16:00,T-67,Slovenia,T-80,United States,2,2,0,0
+0,6/18/2010,20:30,T-27,England,T-01,Algeria,0,0,0,0
+0,6/19/2010,13:30,T-46,Netherlands,T-42,Japan,1,0,1,-1
+0,6/19/2010,16:00,T-30,Ghana,T-04,Australia,1,1,0,0
+0,6/19/2010,20:30,T-11,Cameroon,T-21,Denmark,1,2,-1,1
+0,6/20/2010,13:30,T-66,Slovakia,T-53,Paraguay,0,2,-2,2
+0,6/20/2010,16:00,T-39,Italy,T-47,New Zealand,1,1,0,0
+0,6/20/2010,20:30,T-09,Brazil,T-40,Ivory Coast,3,1,2,-2
+0,6/21/2010,13:30,T-56,Portugal,T-49,North Korea,7,0,7,-7
+0,6/21/2010,16:00,T-13,Chile,T-73,Switzerland,1,0,1,-1
+0,6/21/2010,20:30,T-71,Spain,T-33,Honduras,2,0,2,-2
+0,6/22/2010,16:00,T-28,France,T-68,South Africa,1,2,-1,1
+0,6/22/2010,16:00,T-44,Mexico,T-81,Uruguay,0,1,-1,1
+0,6/22/2010,20:30,T-31,Greece,T-03,Argentina,0,2,-2,2
+0,6/22/2010,20:30,T-48,Nigeria,T-69,South Korea,2,2,0,0
+0,6/23/2010,16:00,T-67,Slovenia,T-27,England,0,1,-1,1
+0,6/23/2010,16:00,T-80,United States,T-01,Algeria,1,0,1,-1
+0,6/23/2010,20:30,T-04,Australia,T-64,Serbia,2,1,1,-1
+0,6/23/2010,20:30,T-30,Ghana,T-29,Germany,0,1,-1,1
+0,6/24/2010,16:00,T-53,Paraguay,T-47,New Zealand,0,0,0,0
+0,6/24/2010,16:00,T-66,Slovakia,T-39,Italy,3,2,1,-1
+0,6/24/2010,20:30,T-11,Cameroon,T-46,Netherlands,1,2,-1,1
+0,6/24/2010,20:30,T-21,Denmark,T-42,Japan,1,3,-2,2
+0,6/25/2010,16:00,T-49,North Korea,T-40,Ivory Coast,0,3,-3,3
+0,6/25/2010,16:00,T-56,Portugal,T-09,Brazil,0,0,0,0
+0,6/25/2010,20:30,T-13,Chile,T-71,Spain,1,2,-1,1
+0,6/25/2010,20:30,T-73,Switzerland,T-33,Honduras,0,0,0,0
+1,6/26/2010,16:00,T-81,Uruguay,T-69,South Korea,2,1,1,-1
+1,6/26/2010,20:30,T-80,United States,T-30,Ghana,1,2,-1,1
+1,6/27/2010,16:00,T-29,Germany,T-27,England,4,1,3,-3
+1,6/27/2010,20:30,T-03,Argentina,T-44,Mexico,3,1,2,-2
+1,6/28/2010,16:00,T-46,Netherlands,T-66,Slovakia,2,1,1,-1
+1,6/28/2010,20:30,T-09,Brazil,T-13,Chile,3,0,3,-3
+1,6/29/2010,16:00,T-53,Paraguay,T-42,Japan,0,0,0,0
+1,6/29/2010,20:30,T-71,Spain,T-56,Portugal,1,0,1,-1
+1,7/2/2010,16:00,T-46,Netherlands,T-09,Brazil,2,1,1,-1
+1,7/2/2010,20:30,T-81,Uruguay,T-30,Ghana,1,1,0,0
+1,7/3/2010,16:00,T-03,Argentina,T-29,Germany,0,4,-4,4
+1,7/3/2010,20:30,T-53,Paraguay,T-71,Spain,0,1,-1,1
+1,7/6/2010,20:30,T-81,Uruguay,T-46,Netherlands,2,3,-1,1
+1,7/7/2010,20:30,T-29,Germany,T-71,Spain,0,1,-1,1
+1,7/10/2010,20:30,T-81,Uruguay,T-29,Germany,2,3,-1,1
+1,7/11/2010,20:30,T-46,Netherlands,T-71,Spain,0,1,-1,1
+0,6/12/2014,17:00,T-09,Brazil,T-17,Croatia,3,1,2,-2
+0,6/13/2014,13:00,T-44,Mexico,T-11,Cameroon,1,0,1,-1
+0,6/13/2014,16:00,T-71,Spain,T-46,Netherlands,1,5,-4,4
+0,6/13/2014,18:00,T-13,Chile,T-04,Australia,3,1,2,-2
+0,6/14/2014,13:00,T-15,Colombia,T-31,Greece,3,0,3,-3
+0,6/14/2014,16:00,T-81,Uruguay,T-16,Costa Rica,1,3,-2,2
+0,6/14/2014,18:00,T-27,England,T-39,Italy,1,2,-1,1
+0,6/14/2014,22:00,T-40,Ivory Coast,T-42,Japan,2,1,1,-1
+0,6/15/2014,13:00,T-73,Switzerland,T-24,Ecuador,2,1,1,-1
+0,6/15/2014,16:00,T-28,France,T-33,Honduras,3,0,3,-3
+0,6/15/2014,19:00,T-03,Argentina,T-08,Bosnia and Herzegovina,2,1,1,-1
+0,6/16/2014,13:00,T-29,Germany,T-56,Portugal,4,0,4,-4
+0,6/16/2014,16:00,T-36,Iran,T-48,Nigeria,0,0,0,0
+0,6/16/2014,19:00,T-30,Ghana,T-80,United States,1,2,-1,1
+0,6/17/2014,13:00,T-06,Belgium,T-01,Algeria,2,1,1,-1
+0,6/17/2014,16:00,T-09,Brazil,T-44,Mexico,0,0,0,0
+0,6/17/2014,18:00,T-60,Russia,T-69,South Korea,1,1,0,0
+0,6/18/2014,13:00,T-04,Australia,T-46,Netherlands,2,3,-1,1
+0,6/18/2014,16:00,T-71,Spain,T-13,Chile,0,2,-2,2
+0,6/18/2014,18:00,T-11,Cameroon,T-17,Croatia,0,4,-4,4
+0,6/19/2014,13:00,T-15,Colombia,T-40,Ivory Coast,2,1,1,-1
+0,6/19/2014,16:00,T-81,Uruguay,T-27,England,2,1,1,-1
+0,6/19/2014,19:00,T-42,Japan,T-31,Greece,0,0,0,0
+0,6/20/2014,13:00,T-39,Italy,T-16,Costa Rica,0,1,-1,1
+0,6/20/2014,16:00,T-73,Switzerland,T-28,France,2,5,-3,3
+0,6/20/2014,19:00,T-33,Honduras,T-24,Ecuador,1,2,-1,1
+0,6/21/2014,13:00,T-03,Argentina,T-36,Iran,1,0,1,-1
+0,6/21/2014,16:00,T-29,Germany,T-30,Ghana,2,2,0,0
+0,6/21/2014,18:00,T-48,Nigeria,T-08,Bosnia and Herzegovina,1,0,1,-1
+0,6/22/2014,13:00,T-06,Belgium,T-60,Russia,1,0,1,-1
+0,6/22/2014,16:00,T-69,South Korea,T-01,Algeria,2,4,-2,2
+0,6/22/2014,18:00,T-80,United States,T-56,Portugal,2,2,0,0
+0,6/23/2014,13:00,T-04,Australia,T-71,Spain,0,3,-3,3
+0,6/23/2014,13:00,T-46,Netherlands,T-13,Chile,2,0,2,-2
+0,6/23/2014,17:00,T-11,Cameroon,T-09,Brazil,1,4,-3,3
+0,6/23/2014,17:00,T-17,Croatia,T-44,Mexico,1,3,-2,2
+0,6/24/2014,13:00,T-16,Costa Rica,T-27,England,0,0,0,0
+0,6/24/2014,13:00,T-39,Italy,T-81,Uruguay,0,1,-1,1
+0,6/24/2014,16:00,T-42,Japan,T-15,Colombia,1,4,-3,3
+0,6/24/2014,17:00,T-31,Greece,T-40,Ivory Coast,2,1,1,-1
+0,6/25/2014,13:00,T-08,Bosnia and Herzegovina,T-36,Iran,3,1,2,-2
+0,6/25/2014,13:00,T-48,Nigeria,T-03,Argentina,2,3,-1,1
+0,6/25/2014,16:00,T-33,Honduras,T-73,Switzerland,0,3,-3,3
+0,6/25/2014,17:00,T-24,Ecuador,T-28,France,0,0,0,0
+0,6/26/2014,13:00,T-56,Portugal,T-30,Ghana,2,1,1,-1
+0,6/26/2014,13:00,T-80,United States,T-29,Germany,0,1,-1,1
+0,6/26/2014,17:00,T-01,Algeria,T-60,Russia,1,1,0,0
+0,6/26/2014,17:00,T-69,South Korea,T-06,Belgium,0,1,-1,1
+1,6/28/2014,13:00,T-09,Brazil,T-13,Chile,1,1,0,0
+1,6/28/2014,17:00,T-15,Colombia,T-81,Uruguay,2,0,2,-2
+1,6/29/2014,13:00,T-46,Netherlands,T-44,Mexico,2,1,1,-1
+1,6/29/2014,17:00,T-16,Costa Rica,T-31,Greece,1,1,0,0
+1,6/30/2014,13:00,T-28,France,T-48,Nigeria,2,0,2,-2
+1,6/30/2014,17:00,T-29,Germany,T-01,Algeria,2,1,1,-1
+1,7/1/2014,13:00,T-03,Argentina,T-73,Switzerland,1,0,1,-1
+1,7/1/2014,17:00,T-06,Belgium,T-80,United States,2,1,1,-1
+1,7/4/2014,13:00,T-28,France,T-29,Germany,0,1,-1,1
+1,7/4/2014,17:00,T-09,Brazil,T-15,Colombia,2,1,1,-1
+1,7/5/2014,13:00,T-03,Argentina,T-06,Belgium,1,0,1,-1
+1,7/5/2014,17:00,T-46,Netherlands,T-16,Costa Rica,0,0,0,0
+1,7/8/2014,17:00,T-09,Brazil,T-29,Germany,1,7,-6,6
+1,7/9/2014,17:00,T-46,Netherlands,T-03,Argentina,0,0,0,0
+1,7/12/2014,17:00,T-09,Brazil,T-46,Netherlands,0,3,-3,3
+1,7/13/2014,16:00,T-29,Germany,T-03,Argentina,1,0,1,-1
+0,6/14/2018,18:00,T-60,Russia,T-61,Saudi Arabia,5,0,5,-5
+0,6/15/2018,17:00,T-25,Egypt,T-81,Uruguay,0,1,-1,1
+0,6/15/2018,18:00,T-45,Morocco,T-36,Iran,0,1,-1,1
+0,6/15/2018,21:00,T-56,Portugal,T-71,Spain,3,3,0,0
+0,6/16/2018,13:00,T-28,France,T-04,Australia,2,1,1,-1
+0,6/16/2018,16:00,T-03,Argentina,T-35,Iceland,1,1,0,0
+0,6/16/2018,19:00,T-54,Peru,T-21,Denmark,0,1,-1,1
+0,6/16/2018,21:00,T-17,Croatia,T-48,Nigeria,2,0,2,-2
+0,6/17/2018,16:00,T-16,Costa Rica,T-64,Serbia,0,1,-1,1
+0,6/17/2018,18:00,T-29,Germany,T-44,Mexico,0,1,-1,1
+0,6/17/2018,21:00,T-09,Brazil,T-73,Switzerland,1,1,0,0
+0,6/18/2018,15:00,T-72,Sweden,T-69,South Korea,1,0,1,-1
+0,6/18/2018,18:00,T-06,Belgium,T-52,Panama,3,0,3,-3
+0,6/18/2018,21:00,T-76,Tunisia,T-27,England,1,2,-1,1
+0,6/19/2018,15:00,T-15,Colombia,T-42,Japan,1,2,-1,1
+0,6/19/2018,18:00,T-55,Poland,T-63,Senegal,1,2,-1,1
+0,6/19/2018,21:00,T-60,Russia,T-25,Egypt,3,1,2,-2
+0,6/20/2018,15:00,T-56,Portugal,T-45,Morocco,1,0,1,-1
+0,6/20/2018,18:00,T-81,Uruguay,T-61,Saudi Arabia,1,0,1,-1
+0,6/20/2018,21:00,T-36,Iran,T-71,Spain,0,1,-1,1
+0,6/21/2018,16:00,T-21,Denmark,T-04,Australia,1,1,0,0
+0,6/21/2018,20:00,T-28,France,T-54,Peru,1,0,1,-1
+0,6/21/2018,21:00,T-03,Argentina,T-17,Croatia,0,3,-3,3
+0,6/22/2018,15:00,T-09,Brazil,T-16,Costa Rica,2,0,2,-2
+0,6/22/2018,18:00,T-48,Nigeria,T-35,Iceland,2,0,2,-2
+0,6/22/2018,20:00,T-64,Serbia,T-73,Switzerland,1,2,-1,1
+0,6/23/2018,15:00,T-06,Belgium,T-76,Tunisia,5,2,3,-3
+0,6/23/2018,18:00,T-69,South Korea,T-44,Mexico,1,2,-1,1
+0,6/23/2018,21:00,T-29,Germany,T-72,Sweden,2,1,1,-1
+0,6/24/2018,15:00,T-27,England,T-52,Panama,6,1,5,-5
+0,6/24/2018,20:00,T-42,Japan,T-63,Senegal,2,2,0,0
+0,6/24/2018,21:00,T-55,Poland,T-15,Colombia,0,3,-3,3
+0,6/25/2018,17:00,T-61,Saudi Arabia,T-25,Egypt,2,1,1,-1
+0,6/25/2018,18:00,T-81,Uruguay,T-60,Russia,3,0,3,-3
+0,6/25/2018,20:00,T-71,Spain,T-45,Morocco,2,2,0,0
+0,6/25/2018,21:00,T-36,Iran,T-56,Portugal,1,1,0,0
+0,6/26/2018,17:00,T-04,Australia,T-54,Peru,0,2,-2,2
+0,6/26/2018,17:00,T-21,Denmark,T-28,France,0,0,0,0
+0,6/26/2018,21:00,T-35,Iceland,T-17,Croatia,1,2,-1,1
+0,6/26/2018,21:00,T-48,Nigeria,T-03,Argentina,1,2,-1,1
+0,6/27/2018,17:00,T-69,South Korea,T-29,Germany,2,0,2,-2
+0,6/27/2018,19:00,T-44,Mexico,T-72,Sweden,0,3,-3,3
+0,6/27/2018,21:00,T-64,Serbia,T-09,Brazil,0,2,-2,2
+0,6/27/2018,21:00,T-73,Switzerland,T-16,Costa Rica,2,2,0,0
+0,6/28/2018,17:00,T-42,Japan,T-55,Poland,0,1,-1,1
+0,6/28/2018,18:00,T-63,Senegal,T-15,Colombia,0,1,-1,1
+0,6/28/2018,20:00,T-27,England,T-06,Belgium,0,1,-1,1
+0,6/28/2018,21:00,T-52,Panama,T-76,Tunisia,1,2,-1,1
+1,6/30/2018,17:00,T-28,France,T-03,Argentina,4,3,1,-1
+1,6/30/2018,21:00,T-81,Uruguay,T-56,Portugal,2,1,1,-1
+1,7/1/2018,17:00,T-71,Spain,T-60,Russia,1,1,0,0
+1,7/1/2018,21:00,T-17,Croatia,T-21,Denmark,1,1,0,0
+1,7/2/2018,18:00,T-09,Brazil,T-44,Mexico,2,0,2,-2
+1,7/2/2018,21:00,T-06,Belgium,T-42,Japan,3,2,1,-1
+1,7/3/2018,17:00,T-72,Sweden,T-73,Switzerland,1,0,1,-1
+1,7/3/2018,21:00,T-15,Colombia,T-27,England,1,1,0,0
+1,7/6/2018,17:00,T-81,Uruguay,T-28,France,0,2,-2,2
+1,7/6/2018,21:00,T-09,Brazil,T-06,Belgium,1,2,-1,1
+1,7/7/2018,18:00,T-72,Sweden,T-27,England,0,2,-2,2
+1,7/7/2018,21:00,T-60,Russia,T-17,Croatia,2,2,0,0
+1,7/10/2018,21:00,T-28,France,T-06,Belgium,1,0,1,-1
+1,7/11/2018,21:00,T-17,Croatia,T-27,England,2,1,1,-1
+1,7/14/2018,17:00,T-06,Belgium,T-27,England,2,0,2,-2
+1,7/15/2018,18:00,T-28,France,T-17,Croatia,4,2,2,-2
+0,11/20/2022,19:00,T-57,Qatar,T-24,Ecuador,0,2,-2,2
+0,11/21/2022,16:00,T-27,England,T-36,Iran,6,2,4,-4
+0,11/21/2022,19:00,T-63,Senegal,T-46,Netherlands,0,2,-2,2
+0,11/21/2022,22:00,T-80,United States,T-82,Wales,1,1,0,0
+0,11/22/2022,13:00,T-03,Argentina,T-61,Saudi Arabia,1,2,-1,1
+0,11/22/2022,16:00,T-21,Denmark,T-76,Tunisia,0,0,0,0
+0,11/22/2022,19:00,T-44,Mexico,T-55,Poland,0,0,0,0
+0,11/22/2022,22:00,T-28,France,T-04,Australia,4,1,3,-3
+0,11/23/2022,13:00,T-45,Morocco,T-17,Croatia,0,0,0,0
+0,11/23/2022,16:00,T-29,Germany,T-42,Japan,1,2,-1,1
+0,11/23/2022,19:00,T-71,Spain,T-16,Costa Rica,7,0,7,-7
+0,11/23/2022,22:00,T-06,Belgium,T-12,Canada,1,0,1,-1
+0,11/24/2022,13:00,T-73,Switzerland,T-11,Cameroon,1,0,1,-1
+0,11/24/2022,16:00,T-81,Uruguay,T-69,South Korea,0,0,0,0
+0,11/24/2022,19:00,T-56,Portugal,T-30,Ghana,3,2,1,-1
+0,11/24/2022,22:00,T-09,Brazil,T-64,Serbia,2,0,2,-2
+0,11/25/2022,13:00,T-82,Wales,T-36,Iran,0,2,-2,2
+0,11/25/2022,16:00,T-57,Qatar,T-63,Senegal,1,3,-2,2
+0,11/25/2022,19:00,T-46,Netherlands,T-24,Ecuador,1,1,0,0
+0,11/25/2022,22:00,T-27,England,T-80,United States,0,0,0,0
+0,11/26/2022,13:00,T-76,Tunisia,T-04,Australia,0,1,-1,1
+0,11/26/2022,16:00,T-55,Poland,T-61,Saudi Arabia,2,0,2,-2
+0,11/26/2022,19:00,T-28,France,T-21,Denmark,2,1,1,-1
+0,11/26/2022,22:00,T-03,Argentina,T-44,Mexico,2,0,2,-2
+0,11/27/2022,13:00,T-42,Japan,T-16,Costa Rica,0,1,-1,1
+0,11/27/2022,16:00,T-06,Belgium,T-45,Morocco,0,2,-2,2
+0,11/27/2022,19:00,T-17,Croatia,T-12,Canada,4,1,3,-3
+0,11/27/2022,22:00,T-71,Spain,T-29,Germany,1,1,0,0
+0,11/28/2022,13:00,T-11,Cameroon,T-64,Serbia,3,3,0,0
+0,11/28/2022,16:00,T-69,South Korea,T-30,Ghana,2,3,-1,1
+0,11/28/2022,19:00,T-09,Brazil,T-73,Switzerland,1,0,1,-1
+0,11/28/2022,22:00,T-56,Portugal,T-81,Uruguay,2,0,2,-2
+0,11/29/2022,18:00,T-24,Ecuador,T-63,Senegal,1,2,-1,1
+0,11/29/2022,18:00,T-46,Netherlands,T-57,Qatar,2,0,2,-2
+0,11/29/2022,22:00,T-36,Iran,T-80,United States,0,1,-1,1
+0,11/29/2022,22:00,T-82,Wales,T-27,England,0,3,-3,3
+0,11/30/2022,18:00,T-04,Australia,T-21,Denmark,1,0,1,-1
+0,11/30/2022,18:00,T-76,Tunisia,T-28,France,1,0,1,-1
+0,11/30/2022,22:00,T-55,Poland,T-03,Argentina,0,2,-2,2
+0,11/30/2022,22:00,T-61,Saudi Arabia,T-44,Mexico,1,2,-1,1
+0,12/1/2022,18:00,T-12,Canada,T-45,Morocco,1,2,-1,1
+0,12/1/2022,18:00,T-17,Croatia,T-06,Belgium,0,0,0,0
+0,12/1/2022,22:00,T-16,Costa Rica,T-29,Germany,2,4,-2,2
+0,12/1/2022,22:00,T-42,Japan,T-71,Spain,2,1,1,-1
+0,12/2/2022,18:00,T-30,Ghana,T-81,Uruguay,0,2,-2,2
+0,12/2/2022,18:00,T-69,South Korea,T-56,Portugal,2,1,1,-1
+0,12/2/2022,22:00,T-11,Cameroon,T-09,Brazil,1,0,1,-1
+0,12/2/2022,22:00,T-64,Serbia,T-73,Switzerland,2,3,-1,1
+1,12/3/2022,18:00,T-46,Netherlands,T-80,United States,3,1,2,-2
+1,12/3/2022,22:00,T-03,Argentina,T-04,Australia,2,1,1,-1
+1,12/4/2022,18:00,T-28,France,T-55,Poland,3,1,2,-2
+1,12/4/2022,22:00,T-27,England,T-63,Senegal,3,0,3,-3
+1,12/5/2022,18:00,T-42,Japan,T-17,Croatia,1,1,0,0
+1,12/5/2022,22:00,T-09,Brazil,T-69,South Korea,4,1,3,-3
+1,12/6/2022,18:00,T-45,Morocco,T-71,Spain,0,0,0,0
+1,12/6/2022,22:00,T-56,Portugal,T-73,Switzerland,6,1,5,-5
+1,12/9/2022,18:00,T-17,Croatia,T-09,Brazil,1,1,0,0
+1,12/9/2022,22:00,T-46,Netherlands,T-03,Argentina,2,2,0,0
+1,12/10/2022,18:00,T-45,Morocco,T-56,Portugal,1,0,1,-1
+1,12/10/2022,22:00,T-27,England,T-28,France,1,2,-1,1
+1,12/13/2022,22:00,T-03,Argentina,T-17,Croatia,3,0,3,-3
+1,12/14/2022,22:00,T-28,France,T-45,Morocco,2,0,2,-2
+1,12/17/2022,18:00,T-17,Croatia,T-45,Morocco,2,1,1,-1
+1,12/18/2022,18:00,T-03,Argentina,T-28,France,3,3,0,0

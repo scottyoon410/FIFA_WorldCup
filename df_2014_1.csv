@@ -1,0 +1,65 @@
+Stage Name,Knockout Stage,Match Date,Match Time,Home Team Id,Home Team Name,Away Team Id,Away Team Name,Home Team Score,Away Team Score,Home Team Score Margin,Away Team Score Margin,Key ID,Tournament Name,Award Id,Award Name,Shared,Player Id,Family Name,Give Name,Team Id,Team Name,Team Code
+group stage,0,6/12/2014,17:00,T-09,Brazil,T-17,Croatia,3,1,2,-2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/13/2014,13:00,T-44,Mexico,T-11,Cameroon,1,0,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/13/2014,16:00,T-71,Spain,T-46,Netherlands,1,5,-4,4,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/13/2014,18:00,T-13,Chile,T-04,Australia,3,1,2,-2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/14/2014,13:00,T-15,Colombia,T-31,Greece,3,0,3,-3,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/14/2014,16:00,T-81,Uruguay,T-16,Costa Rica,1,3,-2,2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/14/2014,18:00,T-27,England,T-39,Italy,1,2,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/14/2014,22:00,T-40,Ivory Coast,T-42,Japan,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/15/2014,13:00,T-73,Switzerland,T-24,Ecuador,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/15/2014,16:00,T-28,France,T-33,Honduras,3,0,3,-3,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/15/2014,19:00,T-03,Argentina,T-08,Bosnia and Herzegovina,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/16/2014,13:00,T-29,Germany,T-56,Portugal,4,0,4,-4,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/16/2014,16:00,T-36,Iran,T-48,Nigeria,0,0,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/16/2014,19:00,T-30,Ghana,T-80,United States,1,2,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/17/2014,13:00,T-06,Belgium,T-01,Algeria,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/17/2014,16:00,T-09,Brazil,T-44,Mexico,0,0,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/17/2014,18:00,T-60,Russia,T-69,South Korea,1,1,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/18/2014,13:00,T-04,Australia,T-46,Netherlands,2,3,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/18/2014,16:00,T-71,Spain,T-13,Chile,0,2,-2,2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/18/2014,18:00,T-11,Cameroon,T-17,Croatia,0,4,-4,4,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/19/2014,13:00,T-15,Colombia,T-40,Ivory Coast,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/19/2014,16:00,T-81,Uruguay,T-27,England,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/19/2014,19:00,T-42,Japan,T-31,Greece,0,0,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/20/2014,13:00,T-39,Italy,T-16,Costa Rica,0,1,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/20/2014,16:00,T-73,Switzerland,T-28,France,2,5,-3,3,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/20/2014,19:00,T-33,Honduras,T-24,Ecuador,1,2,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/21/2014,13:00,T-03,Argentina,T-36,Iran,1,0,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/21/2014,16:00,T-29,Germany,T-30,Ghana,2,2,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/21/2014,18:00,T-48,Nigeria,T-08,Bosnia and Herzegovina,1,0,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/22/2014,13:00,T-06,Belgium,T-60,Russia,1,0,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/22/2014,16:00,T-69,South Korea,T-01,Algeria,2,4,-2,2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/22/2014,18:00,T-80,United States,T-56,Portugal,2,2,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/23/2014,13:00,T-04,Australia,T-71,Spain,0,3,-3,3,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/23/2014,13:00,T-46,Netherlands,T-13,Chile,2,0,2,-2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/23/2014,17:00,T-11,Cameroon,T-09,Brazil,1,4,-3,3,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/23/2014,17:00,T-17,Croatia,T-44,Mexico,1,3,-2,2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/24/2014,13:00,T-16,Costa Rica,T-27,England,0,0,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/24/2014,13:00,T-39,Italy,T-81,Uruguay,0,1,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/24/2014,16:00,T-42,Japan,T-15,Colombia,1,4,-3,3,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/24/2014,17:00,T-31,Greece,T-40,Ivory Coast,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/25/2014,13:00,T-08,Bosnia and Herzegovina,T-36,Iran,3,1,2,-2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/25/2014,13:00,T-48,Nigeria,T-03,Argentina,2,3,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/25/2014,16:00,T-33,Honduras,T-73,Switzerland,0,3,-3,3,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/25/2014,17:00,T-24,Ecuador,T-28,France,0,0,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/26/2014,13:00,T-56,Portugal,T-30,Ghana,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/26/2014,13:00,T-80,United States,T-29,Germany,0,1,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/26/2014,17:00,T-01,Algeria,T-60,Russia,1,1,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+group stage,0,6/26/2014,17:00,T-69,South Korea,T-06,Belgium,0,1,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+round of 16,1,6/28/2014,13:00,T-09,Brazil,T-13,Chile,1,1,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+round of 16,1,6/28/2014,17:00,T-15,Colombia,T-81,Uruguay,2,0,2,-2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+round of 16,1,6/29/2014,13:00,T-46,Netherlands,T-44,Mexico,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+round of 16,1,6/29/2014,17:00,T-16,Costa Rica,T-31,Greece,1,1,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+round of 16,1,6/30/2014,13:00,T-28,France,T-48,Nigeria,2,0,2,-2,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+round of 16,1,6/30/2014,17:00,T-29,Germany,T-01,Algeria,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+round of 16,1,7/1/2014,13:00,T-03,Argentina,T-73,Switzerland,1,0,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+round of 16,1,7/1/2014,17:00,T-06,Belgium,T-80,United States,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+quarter-finals,1,7/4/2014,13:00,T-28,France,T-29,Germany,0,1,-1,1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+quarter-finals,1,7/4/2014,17:00,T-09,Brazil,T-15,Colombia,2,1,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+quarter-finals,1,7/5/2014,13:00,T-03,Argentina,T-06,Belgium,1,0,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+quarter-finals,1,7/5/2014,17:00,T-46,Netherlands,T-16,Costa Rica,0,0,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+semi-finals,1,7/8/2014,17:00,T-09,Brazil,T-29,Germany,1,7,-6,6,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+semi-finals,1,7/9/2014,17:00,T-46,Netherlands,T-03,Argentina,0,0,0,0,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+third-place match,1,7/12/2014,17:00,T-09,Brazil,T-46,Netherlands,0,3,-3,3,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
+final,1,7/13/2014,16:00,T-29,Germany,T-03,Argentina,1,0,1,-1,118,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
